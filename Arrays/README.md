@@ -1,4 +1,4 @@
-# 🌟 Arrays Problems - Tracker
+# 🌟 Arrays Problems
 
 Below is the list of problems under the **Arrays** pattern:
 
@@ -7,9 +7,9 @@ Below is the list of problems under the **Arrays** pattern:
 | 448. Find All Numbers Disappeared in an Array | Easy | 62.1% | 🟩 | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/448_find-all-numbers-disappeared-in-an-array/README.md) |
 | 136. Single Number | Easy | 75.5% | 🟩 | [LeetCode](https://leetcode.com/problems/single-number/) | [📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/136_singlenumber/README.md)|
 | 268. Missing Number | Easy | 69.6% | 🟩 | [LeetCode](https://leetcode.com/problems/missing-number/) | [📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/268_missing-number/README.md)|
-| 217. Contains Duplicate | Easy | 62.9% | ⬜ | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | |
-| 128. Longest Consecutive Sequence | Medium | 47.1% | ⬜ | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | |
-| 581. Shortest Unsorted Continuous Subarray | Medium | 37.3% | ⬜ | [LeetCode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | |
+| 217. Contains Duplicate | Easy | 62.9% | 🟩 | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/217_contains-duplicate/README.md)|
+| 128. Longest Consecutive Sequence | Medium | 47.1% | 🟩 | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) |[📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/128_longest-consecutive-sequence/README.md)|
+| 581. Shortest Unsorted Continuous Subarray | Medium | 37.3% | 🟩 | [LeetCode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |[📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/581_shortest-unsorted-continuous-subarray/README.md) |
 | 73. Set Matrix Zeroes | Medium | 59.2% | ⬜ | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | |
 | 457. Circular Array Loop | Medium | 35.3% | ⬜ | [LeetCode](https://leetcode.com/problems/circular-array-loop/) | |
 | 792. Number of Matching Subsequences | Medium | 50.7% | ⬜ | [LeetCode](https://leetcode.com/problems/number-of-matching-subsequences/) | |
