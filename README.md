@@ -2,7 +2,6 @@
 
 Welcome to my **LeetCode DSA Solutions** repository! This space is dedicated to solving and documenting solutions to LeetCode problems focused on **Data Structures and Algorithms (DSA)**. Whether you're preparing for technical interviews 💼, improving your problem-solving skills 🧠, or just exploring the beauty of algorithms, this repo is here to help.
 
----
 
 ## 📚 About This Repository
 
@@ -13,7 +12,7 @@ This repository contains Python 🐍 solutions to various LeetCode problems cate
 - Provide clear explanations and optimized code for each problem.
 - Create a structured resource for interview preparation and learning.
 
----
+
 ## 🏷️ Categories
 | Order               | Description                                                                                           |
 |------------------------|-------------------------------------------------------------------------------------------------------|
@@ -73,7 +72,7 @@ Each problem will have its own folder with the following structure:
 Below is the list of problems under the **Arrays** pattern:
 
 | Problem | Difficulty | Acceptance Rate | Progress | Link | Solution |
-|---------|------------|-----------------|----------|------|----------|
+|---------|:----:|:----:|:----:|:----:|:--------:|
 | 448. Find All Numbers Disappeared in an Array | Easy | 62.1% | 🟩 | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/448_find-all-numbers-disappeared-in-an-array/README.md) |
 | 136. Single Number | Easy | 75.5% | 🟩 | [LeetCode](https://leetcode.com/problems/single-number/) | [📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/136_singlenumber/README.md)|
 | 268. Missing Number | Easy | 69.6% | 🟩 | [LeetCode](https://leetcode.com/problems/missing-number/) | [📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/268_missing-number/README.md)|
@@ -98,8 +97,8 @@ Below is the list of problems under the **Arrays** pattern:
 Below is the list of problems under the **Two Pointers** pattern:
 
 | Problem | Difficulty | Acceptance Rate | Progress | Link | Solution |
-|---------|------------|-----------------|----------|------|----------|
-| 1. Two Sum | Easy | 55.3% | ⬜ | [LeetCode](https://leetcode.com/problems/two-sum/) | |
+|---------|:----------:|:---------------:|:--------:|:----:|:--------:|
+| 1. Two Sum | Easy | 55.3% | 🟩| [LeetCode](https://leetcode.com/problems/two-sum/) |[📝]() |
 | 844. Backspace String Compare | Easy | 49.4% | ⬜ | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) | |
 | 83. Remove Duplicates from Sorted List | Easy | 54.5% | ⬜ | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | |
 | 977. Squares of a Sorted Array | Easy | 73.1% | ⬜ | [LeetCode](https://leetcode.com/problems/squares-of-a_sorted_array/) | |
@@ -249,3 +248,4 @@ For more details, see the [LICENSE](LICENSE) file.
 
 - Special thanks to [LeetCode](https://leetcode.com/) for providing an incredible platform to practice DSA problems.
 - Some solutions may have been inspired or refined with the help of AI tools like ChatGPT or GitHub Copilot.
+e
