@@ -79,7 +79,7 @@ Below is the list of problems under the **Arrays** pattern:
 | 217. Contains Duplicate | Easy | 62.9% | 🟩 | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/217_contains-duplicate/README.md)|
 | 128. Longest Consecutive Sequence | Medium | 47.1% | 🟩 | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) |[📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/128_longest-consecutive-sequence/README.md)|
 | 581. Shortest Unsorted Continuous Subarray | Medium | 37.3% | 🟩 | [LeetCode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |[📝](https://github.com/onyxwizard/leetcode/blob/main/Arrays/581_shortest-unsorted-continuous-subarray/README.md) |
-| 73. Set Matrix Zeroes | Medium | 59.2% | ⬜ | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | |
+| 73. Set Matrix Zeroes | Medium | 59.2% | 🟩 | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) |[📝](https://github.com/onyxwizard/leetcode/tree/main/Arrays/73_set-matrix-zeroes) |
 | 457. Circular Array Loop | Medium | 35.3% | ⬜ | [LeetCode](https://leetcode.com/problems/circular-array-loop/) | |
 | 792. Number of Matching Subsequences | Medium | 50.7% | ⬜ | [LeetCode](https://leetcode.com/problems/number-of-matching-subsequences/) | |
 | 238. Product of Array Except Self | Medium | 67.5% | ⬜ | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | |
@@ -87,7 +87,7 @@ Below is the list of problems under the **Arrays** pattern:
 | 48. Rotate Image | Medium | 77.4% | ⬜ | [LeetCode](https://leetcode.com/problems/rotate-image/) | |
 | 54. Spiral Matrix | Medium | 53.2% | ⬜ | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | |
 | 442. Find All Duplicates in an Array | Medium | 76.3% | ⬜ | [LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | |
-| 287. Find the Duplicate Number | Medium | 62.5% | ⬜ | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | |
+| 287. Find the Duplicate Number | Medium | 62.5% | 🟩 | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) |[📝](https://github.com/onyxwizard/leetcode/tree/main/Arrays/287_find_duplicate_number) |
 | 41. First Missing Positive | Hard | 40.8% | ⬜ | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | |
 
 ---
@@ -98,12 +98,12 @@ Below is the list of problems under the **Two Pointers** pattern:
 
 | Problem | Difficulty | Acceptance Rate | Progress | Link | Solution |
 |---------|:----------:|:---------------:|:--------:|:----:|:--------:|
-| 1. Two Sum | Easy | 55.3% | 🟩| [LeetCode](https://leetcode.com/problems/two-sum/) |[📝]() |
-| 844. Backspace String Compare | Easy | 49.4% | ⬜ | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) | |
+| 1. Two Sum | Easy | 55.3% | 🟩| [LeetCode](https://leetcode.com/problems/two-sum/) |[📝](https://github.com/onyxwizard/leetcode/tree/main/Two%20Pointers/1_two_sum) |
+| 844. Backspace String Compare | Easy | 49.4% | 🟩 | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) |[📝](https://github.com/onyxwizard/leetcode/tree/main/Two%20Pointers/844_backspace_string_compare) |
 | 83. Remove Duplicates from Sorted List | Easy | 54.5% | ⬜ | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | |
-| 977. Squares of a Sorted Array | Easy | 73.1% | ⬜ | [LeetCode](https://leetcode.com/problems/squares-of-a_sorted_array/) | |
+| 977. Squares of a Sorted Array | Easy | 73.1% | 🟩 | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) |[📝](https://github.com/onyxwizard/leetcode/tree/main/Two%20Pointers/977_squares_of_sorted_array) |
 | 259. 3Sum Smaller | Medium | 50.9% | ⬜ | [LeetCode](https://leetcode.com/problems/3sum-smaller/) | |
-| 713. Subarray Product Less Than K | Medium | 52.5% | ⬜ | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) | |
+| 713. Subarray Product Less Than K | Medium | 52.5% | 🟩 | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) | [📝](https://github.com/onyxwizard/leetcode/tree/main/Two%20Pointers/713_subarray_product)|
 | 11. Container With Most Water | Medium | 57.4% | ⬜ | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | |
 | 75. Sort Colors | Medium | 66.6% | ⬜ | [LeetCode](https://leetcode.com/problems/sort-colors/) | |
 | 15. 3Sum | Medium | 36.6% | ⬜ | [LeetCode](https://leetcode.com/problems/3sum/) | |
