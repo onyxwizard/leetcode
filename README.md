@@ -91,7 +91,6 @@ Below is the list of problems under the **Arrays** pattern:
 | 41. First Missing Positive | Hard | 40.8% | ⬜ | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | |
 
 ---
-
 # 🌟 Two Pointers Problems
 
 Below is the list of problems under the **Two Pointers** pattern:
@@ -104,8 +103,8 @@ Below is the list of problems under the **Two Pointers** pattern:
 | 977. Squares of a Sorted Array | Easy | 73.1% | 🟩 | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) |[📝](https://github.com/onyxwizard/leetcode/tree/main/Two%20Pointers/977_squares_of_sorted_array) |
 | 713. Subarray Product Less Than K | Medium | 52.5% | 🟩 | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) | [📝](https://github.com/onyxwizard/leetcode/tree/main/Two%20Pointers/713_subarray_product)|
 | 11. Container With Most Water | Medium | 57.4% | 🟩 | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [📝](https://github.com/onyxwizard/leetcode/tree/main/Two%20Pointers/11_Container_With_Most_Water)|
-| 75. Sort Colors | Medium | 66.6% | ⬜ | [LeetCode](https://leetcode.com/problems/sort-colors/) | |
-| 15. 3Sum | Medium | 36.6% | ⬜ | [LeetCode](https://leetcode.com/problems/3sum/) | |
+| 75. Sort Colors | Medium | 66.6% | 🟩 | [LeetCode](https://leetcode.com/problems/sort-colors/) |[📝](https://github.com/onyxwizard/leetcode/tree/main/Two%20Pointers/75_Sort_Colors) |
+| 15. 3Sum | Medium | 36.6% | 🟩 | [LeetCode](https://leetcode.com/problems/3sum/) |[📝](https://github.com/onyxwizard/leetcode/tree/main/Two%20Pointers/15_3Sum) |
 | 16. 3Sum Closest | Medium | 46.7% | ⬜ | [LeetCode](https://leetcode.com/problems/3sum-closest/) | |
 | 42. Trapping Rain Water | Hard | 64.5% | ⬜ | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | |
 | 76. Minimum Window Substring | Hard | 44.9% | ⬜ | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | |
